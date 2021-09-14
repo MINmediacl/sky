@@ -2,15 +2,15 @@
 <channel id="2">
 <display-name>TVN</display-name>
 </channel>
-<programme channel="1" start="20210914080000 -0300" stop="20210914130000 -0300">
+<programme channel="2" start="20210914080000 -0300" stop="20210914130000 -0300">
 <title lang="es">Buenos dias a todos</title>
 <desc lang="es"/>
 </programme>
-<programme channel="1" start="20210914130000 -0300" stop="20210914153000 -0300">
+<programme channel="2" start="20210914130000 -0300" stop="20210914153000 -0300">
 <title lang="es">24 Horas Tarde</title>
 <desc lang="es"/>
 </programme>
-<programme channel="1" start="20210914153000 -0300" stop="20210914163000 -0300">
+<programme channel="2" start="20210914153000 -0300" stop="20210914163000 -0300">
 <title lang="es">Rompecorazon</title>
 <desc lang="es"/>
 </programme>
