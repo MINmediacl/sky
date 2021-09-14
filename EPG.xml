@@ -1,0 +1,32 @@
+<tv generator-info-name="Sky" generator-info-url="">
+<channel id="1">
+<display-name>TVN</display-name>
+</channel>
+<channel id="2">
+<display-name>CHV</display-name>
+</channel>
+<programme channel="1" start="20210722080000 -0400" stop="20210722130000 -0400">
+<title lang="es">Buenos dias a todos</title>
+<desc lang="es"/>
+</programme>
+<programme channel="1" start="20210722130000 -0400" stop="20210722153000 -0400">
+<title lang="es">24 Horas Tarde</title>
+<desc lang="es"/>
+</programme>
+<programme channel="1" start="20210722153000 -0400" stop="20210722163000 -0400">
+<title lang="es">Rompecorazon</title>
+<desc lang="es"/>
+</programme>
+<programme channel="1" start="20210722163000 -0400" stop="20210722173000 -0400">
+<title lang="es">Romane</title>
+<desc lang="es"/>
+</programme>
+<programme channel="1" start="20210722173000 -0400" stop="20210722190000 -0400">
+<title lang="es">Carmen Gloria a tu servicio</title>
+<desc lang="es"/>
+</programme>
+<programme channel="2" start="20210528140000 -0400" stop="20210528150000 -0400">
+<title lang="es">Prueba 1</title>
+<desc lang="es"/>
+</programme>
+</tv>
